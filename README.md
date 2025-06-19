@@ -1,3 +1,4 @@
+# TrueCredit AI
 **TrueCredit – Credit Card Recommendation System**
 
 *Welcome to TrueCredit, an AI-powered chatbot that helps users discover the best credit cards tailored to their financial profile and lifestyle. Powered by Flask, Gemini AI (Gemini 2.5), and a curated database of Indian credit cards, TrueCredit simulates an intelligent assistant that understands user preferences and makes smart card suggestions.*
