@@ -1,0 +1,444 @@
+[
+  {
+    "name": "SBI Card Elite",
+    "issuer": "SBI",
+    "joining_fee": 4999,
+    "annual_fee": 4999,
+    "reward_type": "Premium Benefits",
+    "eligibility": {
+      "min_income": 600000
+    },
+    "features": [
+      "Lounge Access - Domestic & International",
+      "Annual Fee Reversal on Spend",
+      "Welcome Vouchers",
+      "Movie Tickets & Dining Discounts"
+    ],
+    "affiliate_link": "https://www.sbicard.com/en/personal/credit-cards/sbi-card-elite.page",
+    "image": "/static/images/sbi-elite-credit-card.jpg"
+  },
+  {
+    "name": "HDFC Regalia",
+    "issuer": "HDFC",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "reward_type": "Travel & Rewards",
+    "eligibility": {
+      "min_income": 600000
+    },
+    "features": [
+      "Airport Lounge Access",
+      "Reward Points on Dining & Travel",
+      "Complimentary Insurance",
+      "Dining & Hotel Discounts"
+    ],
+    "affiliate_link": "https://www.hdfcbank.com/personal/pay/cards/credit-cards/regalia-credit-card",
+    "image": "/static/images/hdfc_regalia.jpeg"
+  },
+  {
+    "name": "ICICI Platinum Chip Card",
+    "issuer": "ICICI",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "reward_type": "Fuel & Cashback",
+    "eligibility": {
+      "min_income": 300000
+    },
+    "features": [
+      "Fuel Surcharge Waiver",
+      "Cashback on Grocery & Fuel",
+      "Contactless Payments"
+    ],
+    "affiliate_link": "https://www.icicibank.com/Personal-Banking/cards/credit-cards/platinum-chip-card/index.page",
+    "image": "/static/images/icici_platinum.png"
+  },
+  {
+    "name": "Axis Bank Magnus Credit Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 10000,
+    "annual_fee": 10000,
+    "reward_type": "Premium Travel",
+    "eligibility": {
+      "min_income": 1200000
+    },
+    "features": [
+      "Unlimited Lounge Access",
+      "Golf Course Benefits",
+      "Concierge Service",
+      "Complimentary Memberships"
+    ],
+    "affiliate_link": "https://www.axisbank.com/retail/cards/axis-bank-magnus-credit-card",
+    "image": "/static/images/Axis_Magnus_Credit_Card.jpg"
+  },
+  {
+    "name": "Kotak Mahindra Royale Signature",
+    "issuer": "Kotak Mahindra Bank",
+    "joining_fee": 10000,
+    "annual_fee": 10000,
+    "reward_type": "Luxury & Travel",
+    "eligibility": {
+      "min_income": 1000000
+    },
+    "features": [
+      "Airport Lounge Access",
+      "Golf Benefits",
+      "Personal Concierge",
+      "Travel & Dining Rewards"
+    ],
+    "affiliate_link": "https://www.kotak.com/en/personal-banking/cards/credit-cards/royale-signature-card.html",
+    "image": "/static/images/Kotak_Royale_Signature.jpeg"
+  },
+  {
+    "name": "SBI Card Prime",
+    "issuer": "SBI",
+    "joining_fee": 999,
+    "annual_fee": 999,
+    "reward_type": "Cashback & Rewards",
+    "eligibility": {
+      "min_income": 300000
+    },
+    "features": [
+      "Welcome Gift Vouchers",
+      "Fuel Surcharge Waiver",
+      "Dining & Shopping Offers",
+      "Movie Ticket Discounts"
+    ],
+    "affiliate_link": "https://www.sbicard.com/en/personal/credit-cards/sbi-card-prime.page",
+    "image": "/static/images/SBI_Card_Prime.jpeg"
+  },
+  {
+    "name": "HDFC Millennia Credit Card",
+    "issuer": "HDFC",
+    "joining_fee": 0,
+    "annual_fee": 1000,
+    "reward_type": "Online Shopping",
+    "eligibility": {
+      "min_income": 400000
+    },
+    "features": [
+      "Cashback on Online Shopping",
+      "Fuel Surcharge Waiver",
+      "Airport Lounge Access",
+      "Dining Discounts"
+    ],
+    "affiliate_link": "https://www.hdfcbank.com/personal/pay/cards/credit-cards/millennia-credit-card",
+    "image": "/static/images/HDFC_Millennia_Credit_Card.jpeg"
+  },
+  {
+    "name": "ICICI Coral Credit Card",
+    "issuer": "ICICI",
+    "joining_fee": 1500,
+    "annual_fee": 1500,
+    "reward_type": "Travel & Lifestyle",
+    "eligibility": {
+      "min_income": 350000
+    },
+    "features": [
+      "Complimentary Domestic Lounge Access",
+      "Fuel Surcharge Waiver",
+      "Dining & Movie Discounts",
+      "Reward Points on Every Spend"
+    ],
+    "affiliate_link": "https://www.icicibank.com/Personal-Banking/cards/credit-cards/coral-credit-card/index.page",
+    "image": "/static/images/icici-bank-coral-credit-card.jpg"
+  },
+  {
+    "name": "Axis Bank Ace Credit Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "reward_type": "Cashback",
+    "eligibility": {
+      "min_income": 300000
+    },
+    "features": [
+      "5% Cashback on Bill Payments & Recharges",
+      "Fuel Surcharge Waiver",
+      "Reward Points on Dining & Shopping"
+    ],
+    "affiliate_link": "https://www.axisbank.com/retail/cards/axis-bank-ace-credit-card",
+    "image": "/static/images/Axis_Ace_Credit_Card.jpeg"
+  },
+  {
+    "name": "Kotak PVR Platinum Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "reward_type": "Entertainment",
+    "eligibility": {
+      "min_income": 250000
+    },
+    "features": [
+      "Free Movie Tickets",
+      "Fuel Surcharge Waiver",
+      "Cashback on Groceries",
+      "Dining Discounts"
+    ],
+    "affiliate_link": "https://www.kotak.com/en/personal-banking/cards/credit-cards/pvr-platinum-credit-card.html",
+    "image": "/static/images/Kotak-PVR-Gold-Credit-Card.png"
+  },
+  {
+    "name": "SBI SimplyCLICK Credit Card",
+    "issuer": "SBI",
+    "joining_fee": 0,
+    "annual_fee": 499,
+    "reward_type": "Online Shopping",
+    "eligibility": {
+      "min_income": 250000
+    },
+    "features": [
+      "10x Reward Points on Online Shopping",
+      "Fuel Surcharge Waiver",
+      "Dining Discounts",
+      "Welcome Gift"
+    ],
+    "affiliate_link": "https://www.sbicard.com/en/personal/credit-cards/simplyclick-credit-card.page",
+    "image": "/static/images/SBI_SimplyCLICK_Credit Card.jpeg"
+  },
+  {
+    "name": "HDFC Diners Club Privilege",
+    "issuer": "HDFC",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "reward_type": "Travel & Lifestyle",
+    "eligibility": {
+      "min_income": 600000
+    },
+    "features": [
+      "Unlimited Lounge Access",
+      "Concierge Services",
+      "Dining Discounts",
+      "Golf Benefits"
+    ],
+    "affiliate_link": "https://www.hdfcbank.com/personal/pay/cards/credit-cards/diners-club-privilege-card",
+    "image": "/static/images/HDFC_Diners_Club_Privilege.jpg"
+  },
+  {
+    "name": "ICICI Platinum Travel Card",
+    "issuer": "ICICI",
+    "joining_fee": 1500,
+    "annual_fee": 1500,
+    "reward_type": "Travel",
+    "eligibility": {
+      "min_income": 400000
+    },
+    "features": [
+      "Airport Lounge Access",
+      "Reward Points on Travel",
+      "Fuel Surcharge Waiver"
+    ],
+    "affiliate_link": "https://www.icicibank.com/Personal-Banking/cards/credit-cards/platinum-travel-card/index.page",
+    "image": "/static/images/ICICI_Platinum_Travel_Card.png"
+  },
+  {
+    "name": "Axis Bank Insta Easy Credit Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 0,
+    "annual_fee": 499,
+    "reward_type": "Cashback",
+    "eligibility": {
+      "min_income": 200000
+    },
+    "features": [
+      "5% Cashback on Bill Payments",
+      "Fuel Surcharge Waiver",
+      "Reward Points on Shopping"
+    ],
+    "affiliate_link": "https://www.axisbank.com/retail/cards/axis-bank-insta-easy-credit-card",
+    "image": "/static/images/axis-bank-kwik-credit-card.jpeg"
+  },
+  {
+    "name": "Kotak Silk Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "joining_fee": 750,
+    "annual_fee": 750,
+    "reward_type": "Cashback & Rewards",
+    "eligibility": {
+      "min_income": 300000
+    },
+    "features": [
+      "Cashback on Fuel & Groceries",
+      "Movie Ticket Discounts",
+      "Fuel Surcharge Waiver"
+    ],
+    "affiliate_link": "https://www.kotak.com/en/personal-banking/cards/credit-cards/silk-credit-card.html",
+    "image": "/static/images/Kotak_Silk_Credit_Card.jpg"
+  },
+  {
+    "name": "SBI Platinum Card",
+    "issuer": "SBI",
+    "joining_fee": 0,
+    "annual_fee": 750,
+    "reward_type": "Basic Cashback",
+    "eligibility": {
+      "min_income": 200000
+    },
+    "features": [
+      "Fuel Surcharge Waiver",
+      "Dining Discounts",
+      "Reward Points on Every Purchase"
+    ],
+    "affiliate_link": "https://www.sbicard.com/en/personal/credit-cards/sbi-platinum-card.page",
+    "image": "/static/images/sbi-platinum-card.png"
+  },
+  {
+    "name": "HDFC MoneyBack Card",
+    "issuer": "HDFC",
+    "joining_fee": 0,
+    "annual_fee": 500,
+    "reward_type": "Cashback",
+    "eligibility": {
+      "min_income": 250000
+    },
+    "features": [
+      "Cashback on Online Purchases",
+      "Fuel Surcharge Waiver",
+      "Dining Discounts"
+    ],
+    "affiliate_link": "https://www.hdfcbank.com/personal/pay/cards/credit-cards/moneyback-credit-card",
+    "image": "/static/images/HDFC_MoneyBack_Card.jpeg"
+  },
+  {
+    "name": "Axis Bank Privilege Credit Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 1000,
+    "annual_fee": 1000,
+    "reward_type": "Rewards & Cashback",
+    "eligibility": {
+      "min_income": 400000
+    },
+    "features": [
+      "Fuel Surcharge Waiver",
+      "Reward Points on Dining",
+      "Exclusive Access to Events"
+    ],
+    "affiliate_link": "https://www.axisbank.com/retail/cards/axis-bank-privilege-credit-card",
+    "image": "/static/images/axis-privilege-credit-card-experience.jpg"
+  },
+  {
+    "name": "Kotak Essentia Platinum Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "joining_fee": 750,
+    "annual_fee": 750,
+    "reward_type": "Cashback & Rewards",
+    "eligibility": {
+      "min_income": 250000
+    },
+    "features": [
+      "Fuel Surcharge Waiver",
+      "Cashback on Groceries",
+      "Movie Ticket Discounts"
+    ],
+    "affiliate_link": "https://www.kotak.com/en/personal-banking/cards/credit-cards/essentia-platinum-credit-card.html",
+    "image": "/static/images/essentia-platinum-credit-card.jpg"
+  },
+  {
+    "name": "HDFC Freedom Credit Card",
+    "issuer": "HDFC",
+    "joining_fee": 0,
+    "annual_fee": 500,
+    "reward_type": "Cashback & Rewards",
+    "eligibility": {
+      "min_income": 300000
+    },
+    "features": [
+      "Cashback on Dining & Groceries",
+      "Fuel Surcharge Waiver",
+      "Reward Points on Online Shopping"
+    ],
+    "affiliate_link": "https://www.hdfcbank.com/personal/pay/cards/credit-cards/freedom-credit-card",
+    "image": "/static/images/HDFC-Freedom.png"
+  },
+  {
+    "name": "Axis Bank Aura Credit Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 0,
+    "annual_fee": 499,
+    "reward_type": "Cashback",
+    "eligibility": {
+      "min_income": 200000
+    },
+    "features": [
+      "5% Cashback on Bill Payments",
+      "Fuel Surcharge Waiver",
+      "Reward Points on Shopping"
+    ],
+    "affiliate_link": "https://www.axisbank.com/retail/cards/axis-bank-insta-credit-card",
+    "image": "/static/images/Axis_Bank_AURACredit.jpeg"
+  },
+  {
+    "name": "Kotak Sapphire Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "joining_fee": 1500,
+    "annual_fee": 1500,
+    "reward_type": "Travel & Rewards",
+    "eligibility": {
+      "min_income": 400000
+    },
+    "features": [
+      "Airport Lounge Access",
+      "Travel Insurance",
+      "Dining & Fuel Benefits"
+    ],
+    "affiliate_link": "https://www.kotak.com/en/personal-banking/cards/credit-cards/sapphire-credit-card.html",
+    "image": "/static/images/kotak-sapphire-credit-card.jpg"
+  },
+  {
+    "name": "ICICI Bank Emeralde Credit Card",
+    "issuer": "ICICI",
+    "joining_fee": 12000,
+    "annual_fee": 12000,
+    "reward_type": "Luxury Travel & Lifestyle",
+    "eligibility": {
+      "min_income": 3600000
+    },
+    "features": [
+      "Unlimited international & domestic lounge access with Dreamfolks membership",
+      "No late payment and over-limit charges",
+      "Complimentary golf rounds every month",
+      "1% fuel surcharge waiver on transactions up to \u20b94000",
+      "Concierge services & dining privileges",
+      "Complimentary domestic airport spa access"
+    ],
+    "affiliate_link": "https://www.icicibank.com/ms/Personal-Banking/cards/consumer-cards/credit-card/emeralde-credit-card/index.html",
+    "image": "/static/images/ICICI-Bank-Emeralde-Credit-Card.jpeg"
+  },
+  {
+    "name": "Kotak White Signature Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "joining_fee": 3000,
+    "annual_fee": 3000,
+    "reward_type": "Luxury Travel & Lifestyle",
+    "eligibility": {
+      "min_income": 2500000
+    },
+    "features": [
+      "8 domestic & 4 international lounge visits per year",
+      "White Pass value up to \u20b927,000 on annual spends",
+      "Complimentary add-on card",
+      "Fuel surcharge waiver up to \u20b93,500 per year"
+    ],
+    "affiliate_link": "https://www.kotak.com/en/personal-banking/cards/credit-cards/white-signature-credit-card.html",
+    "image": "/static/images/Kotak_White_Signature.jpeg"
+  },
+  {
+    "name": "Kotak Privy League Signature Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "joining_fee": 0,
+    "annual_fee": 2500,
+    "reward_type": "Premium Rewards & Travel",
+    "eligibility": {
+      "min_income": 750000,
+      "min_age": 21,
+      "max_age": 65
+    },
+    "features": [
+      "2 domestic lounge visits per quarter",
+      "4 international lounge visits per year with Priority Pass",
+      "5X reward points on select categories",
+      "Milestone rewards up to 30,000 points annually"
+    ],
+    "affiliate_link": "https://www.kotak.com/en/personal-banking/cards/credit-cards/privy-league-signature-credit-card.html",
+    "image": "/static/images/Privy_League_Signature.jpg"
+  }
+]
