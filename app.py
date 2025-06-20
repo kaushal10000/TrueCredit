@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
-from google import genai
+import google.generativeai as genai
 import os
 import json
 import re
